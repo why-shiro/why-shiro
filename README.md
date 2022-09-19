@@ -8,7 +8,10 @@
 - 📫 How to reach me: **Grim#2222**
 - 😄 Pronouns: **He/Him**
 
-[![Years Badge](https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/grimok/count.svg" />
+</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grimthedeveloper&count_private=true&show_icons=true&theme=tokyonight)
 
