@@ -2,7 +2,7 @@
 
 ## 👋 Hello, I'm Yiğit
 
-- I am a Jr. Java & Python developer. I've been developing projects with Java for 6 years. I'm studying at Çanakya University. I'm the Co-Founder of Snowlight Development. We are currently working on Minecraft projects such as custom plugins, set-ups, models and much more!
+- I am an electrical and electronics engineer and a software engineer. Currently I'm studying in Çankaya University.
 
 ## ✨ My Tech Stack
 <div align="center">
