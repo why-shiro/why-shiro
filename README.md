@@ -7,6 +7,7 @@
 - I also work on aerodynamic applications at Neo Stellar. Our aim is create better features for humans and the environment with our technologies.
 
  - If you want to contact with me : yigityilmaz@neostellar.net
+ 
 
 ## ✨ My Tech Stack
 <div align="center">
@@ -28,6 +29,12 @@
   <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=39366" />
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 </div>
+
+<p></p>
+
+## ✨ Check Out My Daily.dev Page!
+
+<div align="center"><a href="https://app.daily.dev/grimok"><img src="https://api.daily.dev/devcards/cf2f0ef60eba4505871e807e61a99811.png?r=rbm" width="400" alt="Yiğit YILMAZ's Dev Card"/></a></div>
 
 ##
 <p align="center"> 
