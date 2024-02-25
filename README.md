@@ -2,7 +2,7 @@
 
 ## 👋 Hello, I'm Yiğit
 
-- I am an electrical and electronics engineer and a software engineer. Currently, I'm studying at Çankaya University. I part-time work at Autopark Nord GmbH. I am currently Software and Hackhaton Team Lead at Google Developer Students Club Çankaya. I mostly develop software by using Java and Python. My future goal is to learn Kotlin and Android Studio to develop mobile applications.
+- I am a third-year student in Electrical-Electronics Engineering at Çankaya University. I have over two years of experience in the field of aviation and embedded systems. During this time, I have assisted in the development of complex electronic systems for UAVs (Unmanned Aerial Vehicles). I describe myself as entrepreneurial, determined, motivated, and proactive. My strong analytical skills, technical problem-solving abilities, and teamwork skills enable me to adapt to any project.
 
 - I also work on aerodynamic applications at Neo Stellar. Our aim is create better features for humans and the environment with our technologies.
 
