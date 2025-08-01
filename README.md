@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yiğit <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Yiğit 'Shiro' <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">Robotic, Embedded Systems and sometimes Minecraft Pluin developer from Turkey!</h3>
 
 - 🔭 I’m currently working on my **Python Course**
