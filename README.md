@@ -1,39 +1,56 @@
-<img src="https://i.hizliresim.com/bimtco8.png" />
+<h1 align="center">Hi 👋, I'm Yiğit <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h3 align="center">Robotic, Embedded Systems and sometimes Minecraft Pluin developer from Turkey!</h3>
 
-## 👋 Hello, I'm Yiğit
+- 🔭 I’m currently working on my **Python Course**
 
-- I am a third-year student in Electrical-Electronics Engineering at Çankaya University. I have over two years of experience in the field of aviation and embedded systems. During this time, I have assisted in the development of complex electronic systems for UAVs (Unmanned Aerial Vehicles). I describe myself as entrepreneurial, determined, motivated, and proactive. My strong analytical skills, technical problem-solving abilities, and teamwork skills enable me to adapt to any project.
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- I also work on aerodynamic applications at Neo Stellar. Our aim is create better features for humans and the environment with our technologies.
+- 👯 I’m looking to collaborate on **ROS2 Based Autonomy Projects**
 
- - If you want to contact with me : yigityilmaz@neostellar.net
- 
+- 📫 How to reach me: **yigityilmaz@neostellar.net**
 
-## ✨ My Tech Stack
+- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
+
+<h3 align="center">Connect with me:</h3>
 <div align="center">
-  [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
-  [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
-  [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-  [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
-  [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-  [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 
-## 🍉 Programs That I Use
-
-<div align="center">
-  [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
-  [![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
-  [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yigityilmaz012/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yiiit.png/)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/whyshiro_)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yigityilmaz@neostellar.net)
+  
 </div>
 
-<p></p>
+<h3 align="center">Languages and Tools:</h3>
 
-## ✨ Check Out My Daily.dev Page!
-
-<div align="center"><a href="https://app.daily.dev/grimok"><img src="https://api.daily.dev/devcards/cf2f0ef60eba4505871e807e61a99811.png?r=rbm" width="400" alt="Yiğit YILMAZ's Dev Card"/></a></div>
-
-##
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/grimok/count.svg" />
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
 </p>
+
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=why-shiro&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=why-shiro&theme=react&layout=compact" />
+</p>
+
+------
+
+[BrantLauro](https://github.com/BrantLauro)
+
+Last Edited on: 05/08/2021
