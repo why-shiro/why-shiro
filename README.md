@@ -42,6 +42,11 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=why-shiro&theme=react&layout=compact" />
 </p>
 
+<p align= "center">
+  <img src="https://streak-stats.demolab.com?user=why-shiro&theme=default&hide_border=true" alt="why-shiro's GitHub Stats" />
+</p>
+
+
 ------
 
 [Yiğit 'Shiro' Yılmaz](https://github.com/BrantLauro)
