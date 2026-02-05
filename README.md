@@ -30,21 +30,9 @@
   <a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
   <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.ros.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ros" width="40" height="40"/></a>
   <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/ST_logo_2020_blue_V.svg" alt="ros" width="40" height="40"/></a>
-  <a href="https://www.qt.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/></a>
-
 </p>
 
-
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=why-shiro&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=why-shiro&theme=react&layout=compact" />
-</p>
-
-<p align= "center">
-  <img src="https://streak-stats.demolab.com?user=why-shiro&theme=default&hide_border=true" alt="why-shiro's GitHub Stats" />
-</p>
 
 
 ------
