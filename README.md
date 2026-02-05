@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Yiğit 'Shiro' <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">Robotic, Embedded Systems and sometimes Minecraft Server developer</h3>
+<h3 align="center">Hardware Design & Embedded Systems Engineer</h3>
 
-- 🔭 I’m currently working on my **Python Course**
+- 🔭 I’m currently working on my **Ultralight M.2 Slot SDR (70MHz - 6GHz)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **FPGAs & ASICs**
 
-- 👯 I’m looking to collaborate on **ROS2 Based Autonomy Projects**
+- 👯 I’m looking to collaborate on **High-Speed Digital/Analog PCB Designs**
 
 - 📫 How to reach me: **yigityilmaz@neostellar.net**
 
-- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
+- ⚡ What I like to do: **I like so much reading, basketball and voleyball...and coding of course**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
