@@ -37,6 +37,6 @@
 
 ------
 
-[Yiğit 'Shiro' Yılmaz](https://github.com/BrantLauro)
+[Yiğit 'Shiro' Yılmaz](https://github.com/why-shiro)
 
 Last Edited on: 13/08/2025
